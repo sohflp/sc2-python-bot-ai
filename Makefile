@@ -1,4 +1,4 @@
-export BOT_NAME=basic_bot.py
+export BOT_NAME?=cannon_rush.py
 
 create-env:
 	python3 -m venv .venv
